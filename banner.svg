@@ -1,0 +1,47 @@
+<svg width="1774" height="898" viewBox="0 0 1774 898" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- الخلفية: صورتك اللي رفعتيها -->
+  <image href="https://raw.githubusercontent.com/Esraa-Shalaby/Esraa-Shalaby/main/assets/hero-bg.png" width="1774" height="898"/>
+
+  <!-- Floating tech icons على المساحة الفاضية -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -12; 0 0" dur="2.4s" repeatCount="indefinite"/>
+    <rect x="90" y="120" width="60" height="60" rx="14" fill="#E44D26" opacity="0.95"/>
+    <text x="120" y="160" font-family="Verdana" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">5</text>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 10; 0 0" dur="2.8s" begin="0.3s" repeatCount="indefinite"/>
+    <rect x="180" y="230" width="60" height="60" rx="14" fill="#264DE4" opacity="0.95"/>
+    <text x="210" y="270" font-family="Verdana" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">CSS</text>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" begin="0.6s" repeatCount="indefinite"/>
+    <rect x="100" y="480" width="60" height="60" rx="14" fill="#F0DB4F" opacity="0.95"/>
+    <text x="130" y="520" font-family="Verdana" font-size="16" font-weight="bold" fill="#222" text-anchor="middle">JS</text>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 12; 0 0" dur="2.6s" begin="0.9s" repeatCount="indefinite"/>
+    <rect x="200" y="600" width="60" height="60" rx="14" fill="#61DAFB" opacity="0.95"/>
+    <text x="230" y="640" font-family="Verdana" font-size="14" font-weight="bold" fill="#0D1117" text-anchor="middle">⚛</text>
+  </g>
+
+  <!-- النص الأساسي: بيظهر بـ fade-in -->
+  <text x="90" y="350" font-family="Verdana, sans-serif" font-size="58" font-weight="bold" fill="#FFFFFF" opacity="0">
+    Hi, I'm
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.2s" fill="freeze"/>
+  </text>
+
+  <text x="90" y="425" font-family="Verdana, sans-serif" font-size="64" font-weight="bold" fill="#B968FF" opacity="0">
+    Esraa Shalaby
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.6s" fill="freeze"/>
+  </text>
+
+  <text x="90" y="470" font-family="Verdana, sans-serif" font-size="26" font-weight="bold" fill="#00E5FF" opacity="0">
+    Full Stack Developer | React &amp; Node.js
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="1s" fill="freeze"/>
+  </text>
+
+</svg>
