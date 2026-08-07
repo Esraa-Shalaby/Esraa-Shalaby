@@ -7,10 +7,8 @@
 <br/>
 
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Internship-7C3AED?style=for-the-badge&labelColor=0D1117)
- 
 
 </div>
-
 
 <div align="center">
 
@@ -36,42 +34,6 @@
 
 </div>
 
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏗️ Homi — Construction Cost Calculator
-
-Estimates construction costs in **EGP** for Egyptian users. Built with a feature-based architecture, real pricing logic extracted from spreadsheet data, and a premium dashboard UI (glassmorphism, animated counters, live charts).
-
-**Tech:** `React` `Tailwind CSS` `Recharts`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Esraa-Shalaby/REPLACE_WITH_REPO_NAME)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://REPLACE_WITH_LIVE_LINK)
-
-</td>
-<td width="50%">
-
-### 🎮 Gaming E-Commerce Website
-
-A gaming store front with cart persistence, product modals, and an infinite-loop product slider — built entirely in vanilla JS with AJAX-driven page loading.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Esraa-Shalaby/REPLACE_WITH_REPO_NAME)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://REPLACE_WITH_LIVE_LINK)
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 ## 🌐 Connect With Me
@@ -79,13 +41,19 @@ A gaming store front with cart persistence, product modals, and an infinite-loop
 <a href="https://www.linkedin.com/in/esraa-mohamed-shalaby" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:esraashalaby686@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=7C3AED" alt="Email"/>
 </a>
+
+<a href="https://wa.me/201559008261" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
+</a>
+
 <a href="https://github.com/Esraa-Shalaby" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:00E5FF&height=100&section=footer" width="100%"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:00E5FF&height=100&section=footer" width="100%"/>
