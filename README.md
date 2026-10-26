@@ -1,6 +1,6 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:00E5FF&height=220&section=header&text=Esraa%20Shalaby&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn)
+ <div align="center">
+ 
+<img src="" alt="Esraa Shalaby Header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+React+%26+Django;Problem+Solver+%7C+OOP+(C%2B%2B,+Java,+Python);Turning+Complex+Problems+into+Scalable+Solutions" alt="Typing SVG" />
 
