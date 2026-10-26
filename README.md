@@ -1,6 +1,6 @@
  <div align="center">
  
-<img src="" alt="Esraa Shalaby Header" width="100%" />
+<img src="https://github.com/Esraa-Shalaby/Esraa-Shalaby/blob/main/Gemini_Generated_Image_3so5sk3so5sk3so5.jpeg?raw=true" alt="Esraa Shalaby Header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+React+%26+Django;Problem+Solver+%7C+OOP+(C%2B%2B,+Java,+Python);Turning+Complex+Problems+into+Scalable+Solutions" alt="Typing SVG" />
 
