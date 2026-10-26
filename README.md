@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:00E5FF&height=220&section=header&text=Esraa%20Shalaby&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:00E5FF&height=220&section=header&text=Esraa%20Shalaby&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+React+%26+Node.js;Detail-Oriented+%7C+Fast+Learner;Building+Real-World+Web+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+React+%26+Django;Problem+Solver+%7C+OOP+(C%2B%2B,+Java,+Python);Turning+Complex+Problems+into+Scalable+Solutions" alt="Typing SVG" />
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Internship-7C3AED?style=for-the-badge&labelColor=0D1117)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-7C3AED?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -16,21 +16,21 @@
 
 </div>
 
-> 💡 I'm a **Full Stack Developer** currently studying Computer Science at Menofia University, focused on building fast, responsive, and detail-perfect web experiences with **React** and **Node.js**.
+> 💡 I'm a **Software Engineer & Full Stack Developer** (Computer Science at Menofia University), specializing in turning complex problems into scalable, efficient, and user-centric solutions.
 >
-> 🔧 I care about writing strong logic — whether it's a service-based website or a full e-commerce flow — and I don't consider a feature done until it's exactly right.
+> 🔧 I leverage **React** to build dynamic front-end experiences and seamlessly connect them to robust back-end architectures using **Django**, **RESTful APIs**, and **PostgreSQL**.
 >
-> ⚡ Fast learner, always improving my toolkit. Completed the **DEPI React Frontend Development Program** with a full-stack capstone project.
+> ⚙️ Backed by a deep understanding of Object-Oriented Programming (OOP) principles in **C++, Java, and Python**, I focus on writing clean, maintainable code. I also utilize **Docker** to ensure consistent development environments and streamlined deployment.
 >
-> 🌱 Currently learning: **Python (Backend)**
+> ⚡ Fast learner, detail-oriented, and always improving my toolkit. (Completed the **DEPI React Frontend Development Program** with a full-stack capstone project).
 >
-> 🎯 Actively looking for **Internship** opportunities to grow as a developer.
+> 🎯 Actively looking for **Internship or Junior** opportunities to tackle new technical challenges and build systems that make a real impact.
 
 <div align="center">
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,git,github,cpp,java,mysql&theme=dark" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=py,django,react,postgres,docker,cpp,java,js,html,css,tailwind,git,github,figma&theme=dark" alt="Skills" />
 
 </div>
 
